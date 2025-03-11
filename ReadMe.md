@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 João Thalis Nunes Queiroz
 Ola! Eu sou o João Thalis<br><br>✔️Estudante de Engenharia da Computação<br>✔️Foco na Área de Dados<br>✔️À procura de estágio<br>
 
 
