@@ -1,5 +1,8 @@
 # 💫 João Thalis Nunes Queiroz
-Olá, seja bem-vindo ao meu repositório<br><br>✔️Estudante de Engenharia da Computação<br>✔️Foco na Área de Dados<br>✔️À procura de estágio<br>
+Olá, seja bem-vindo ao meu repositório!
+Me chamo João Thalis, tenho 22 anos e sou estudante de Engenharia da Computação com interesse em sistemas embarcados. Atualmente, estou em transição para essa área.
+
+Este ambiente foi criado para demonstrar minhas competências e habilidades por meio de projetos, com o objetivo de adentrar o mercado de trabalho.<br><br>✔️Estudante de Engenharia da Computação<br>✔️Foco na Área de Dados<br>✔️À procura de estágio<br>
 
 
 ## 🌐 Socials:
