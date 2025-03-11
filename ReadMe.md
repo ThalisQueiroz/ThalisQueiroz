@@ -1,7 +1,8 @@
 # 💫 João Thalis Nunes Queiroz
 Olá, seja bem-vindo ao meu repositório!
 
-Me chamo João Thalis, tenho 22 anos e sou estudante de Engenharia da Computação com interesse em sistemas embarcados. Atualmente, estou em transição para essa área.Este ambiente foi criado para demonstrar minhas competências e habilidades por meio de projetos, com o objetivo de conquistar uma oportunidade de estágio na área.<br>
+Me chamo João Thalis, tenho 22 anos e sou estudante de Engenharia da Computação com interesse em sistemas embarcados. Atualmente, estou em transição para essa área.
+Este ambiente foi criado para demonstrar minhas competências e habilidades por meio de projetos, com o objetivo de conquistar uma oportunidade de estágio na área.<br>
 
 
 ## 🌐 Socials:
