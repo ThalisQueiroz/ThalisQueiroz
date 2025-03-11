@@ -1,16 +1,16 @@
-# 💫 João Thalis Nunes Queiroz
+# 🎓 João Thalis Nunes Queiroz
 Olá, seja bem-vindo ao meu repositório!
 
 Me chamo João Thalis, tenho 22 anos e sou estudante de Engenharia da Computação na Estácio de Sá, com interesse em sistemas embarcados. Atualmente, estou em transição para essa área.
 Este ambiente foi criado para demonstrar minhas competências e habilidades por meio de projetos, com o objetivo de conquistar uma oportunidade de estágio na área.<br>
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/joa0thal1s/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joãothalisnunesqz/) 
 
-# 💻 Tech Stack:
+# 💻 Tecnologias e Linguagens:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
+# 📊 Estatísticas do GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=ThalisQueiroz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThalisQueiroz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalisQueiroz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
